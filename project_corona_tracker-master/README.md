@@ -1,6 +1,7 @@
 # Live-COVID-19 Tracker
 ![COVID-19 Tracker](https://user-images.githubusercontent.com/59734745/85918517-23d9f500-b881-11ea-82ee-e058468540d2.PNG)
-(https://user-images.githubusercontent.com/59734745/85918607-f80b3f00-b881-11ea-8dd9-120ec6593433.PNG)
+![list](https://user-images.githubusercontent.com/59734745/85918607-f80b3f00-b881-11ea-8dd9-120ec6593433.PNG)
+
 
 
 
